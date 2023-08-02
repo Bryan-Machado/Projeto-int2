@@ -1,0 +1,5 @@
+Escopo:
+Nome: Sistema Administrador de Servidores de Veículos Públicos
+
+Este sistema irá apresentar uma forma de checar quais os veículos públicos registrados dentro de uma empresa, quais são os funcionários e seus horários de trabalho assim como mostrar uma interface para o motorista monitorar as passagens do onibus. Este sistema não fará pagamentos, sendo um sistema de self-cache
+Os beneficios da aplicação de um produto como este podem incluir, porém não se limitar a: 
