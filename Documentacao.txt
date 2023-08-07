@@ -4,3 +4,6 @@ Nome: Sistema Administrador de Servidores de Veículos Públicos
 O que fará: Este sistema irá fornecer um método de validação de cartão de onibus, sendo usado primordialmente para as catracas de um onibus. Adicionalmente, este produto irá armazenar dados sobre os funcionários presentes, quais onibus estão circulando no momento presente, quantos onibus temos, sua condição e métodos automaticos de avaliar se o veiculo está apto ao trabalho. O sistema também poderá ser usado para realizar uma média de quantas pessoas entram no onibus em um certo local e hora.
 
 Este sistema NÃO fornecerá meios de pagamento de funcionários, apenas um sistema de tabela para angrariar dados dos colaboradores caso preciso.
+
+O software será usado em veiculos publicos do municipio, dando uma melhor experiencia para tanto os funcionarios que irão estar trabalhando no onibus, quanto os passageiros que terão mais segurança pela presença de um software validando os cartoes. Com este produto se é esperado aumentar a opinião publica sobre os serviços e veiculos publicos.
+
