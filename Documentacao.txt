@@ -1,5 +1,6 @@
 Escopo:
 Nome: Sistema Administrador de Servidores de Veículos Públicos
 
-Este sistema irá apresentar uma forma de checar quais os veículos públicos registrados dentro de uma empresa, quais são os funcionários e seus horários de trabalho assim como mostrar uma interface para o motorista monitorar as passagens do onibus. Este sistema não fará pagamentos, sendo um sistema de self-cache
-Os beneficios da aplicação de um produto como este podem incluir, porém não se limitar a: 
+O que fará: Este sistema irá fornecer um método de validação de cartão de onibus, sendo usado primordialmente para as catracas de um onibus. Adicionalmente, este produto irá armazenar dados sobre os funcionários presentes, quais onibus estão circulando no momento presente, quantos onibus temos, sua condição e métodos automaticos de avaliar se o veiculo está apto ao trabalho. O sistema também poderá ser usado para realizar uma média de quantas pessoas entram no onibus em um certo local e hora.
+
+Este sistema NÃO fornecerá meios de pagamento de funcionários, apenas um sistema de tabela para angrariar dados dos colaboradores caso preciso.
